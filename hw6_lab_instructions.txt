@@ -38,3 +38,4 @@ In this hw, you’ll work on your resume site. I'll be providing the starting HT
 7. Add some font-weight properties
             a. In the Google Fonts site go back and take a look at the options for selecting different typefaces and font weights. After you've selected your font choices open the drawer and go to this Customize tab. Here you'll see options for different font weights. You can choose as many as you'd like but the more you choose, the more resources your page has to load. So only add what you need.
             b. copy the new embed code and update it to your html file.
+-- FINIDHED!! - I think it came in one font-weight??
