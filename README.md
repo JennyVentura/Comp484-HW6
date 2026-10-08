@@ -1,6 +1,6 @@
 # HW 6
 
-Intro to CSS via Resume Site.
+Intro to CSS via a resume site.
 
 ## 🚀 Live Demo
 
