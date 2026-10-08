@@ -28,6 +28,7 @@ In this hw, you’ll work on your resume site. I'll be providing the starting HT
 			c. Copy the standard embed link. This should look familiar since it's using the same link tag we use to add our CSS file. This snippet will actually link to Google Style Sheet, and this is how the font families are loaded onto your webpage
             d. Add the code snippet to the head section of your index file and put it right before the styles.css file.
             e. Now that our new fonts are loaded into the page, set a new default font family back in styles.css for body, h1, h2, etc. 
+-- FINISHED!!
 
 6.  In your styles.css file
             a. adjust the font size of your h1 and h2 tags so that it stands out more accordingly. 

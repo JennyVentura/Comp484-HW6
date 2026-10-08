@@ -11,11 +11,25 @@
 body {
     background: #FF98BB; /* I like the solid pink background color. Tried to make it with the gradient too, didn't look good contrast wise. */
     color: #162941;
+    font-family: "Bentham", serif;
+    font-weight: 400;
+    font-style: normal;
 }
 
-/*h2.spacing {
-    line-height: 2em;
-}*/
+h2 {
+    font-family: "Italianno", cursive;
+    font-weight: 900;
+    font-style: normal;
+    font-size: xx-large;
+    line-height: 1em;
+}
+
+h3 {
+    font-family: "Bentham", serif;
+    font-weight: 700;
+    font-style: normal;
+    line-height: 0;
+}
 
 /*.bentham-regular {
   font-family: "Bentham", serif;
@@ -41,6 +55,7 @@ header {
 
 h1 {
     text-align: center;
+    font-family: "Bentham", serif;
 }
 
 footer {
