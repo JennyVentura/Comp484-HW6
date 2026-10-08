@@ -2,14 +2,14 @@
 #AE2647 - color 1
 #bf437f - color 2
 #bf4398 - color 3
-#9F3B7B - color 4 OR #5d42b3????????????????????????????????
+#9F3B7B & #5d42b3 - color 4 & 5 used together for footer
 */
 
 
 /* Global styles 
 ------------------------------------*/
 body {
-    background: #FF98BB; /*linear-gradient(#AE2647, #bf437f, #bf4398, #9F3B7B);*/ /*#FF98BB  #e9aac8 & lightblue were also nice linear-gradient(#FF98BB, #AE2647, #bf437f, #bf4398, #9F3B7B);*/
+    background: #FF98BB; /* I like the solid pink background color. Tried to make it with the gradient too, didn't look good contrast wise. */
     color: #162941;
 }
 
@@ -17,7 +17,7 @@ body {
 /* Header & Footer 
 ------------------------------------*/
 header {
-    background: linear-gradient(#AE2647, #bf437f); /*#AE2647;*/
+    background: linear-gradient(#AE2647, #bf437f); /* #AE2647 is the main color for header, but I didn't like all the colors by themselves, they just looked bad as random blocks of color on the page, so I decided to do a gradient. I like how this looks much better. */
     margin-top: 0;
     margin-bottom: 0; /*????????????*/
 }
@@ -28,7 +28,7 @@ h1 {
 
 footer {
     text-align: center;
-    background: #5d42b3; /*#9F3B7B;?????????????????????????????*/
+    background: linear-gradient(#9F3B7B, #5d42b3); /* #9F3B7B & #5d42b3 */
     margin-top: 0;
     margin-bottom: 0;
 }
@@ -45,7 +45,7 @@ a:hover {
 /* Work Experience
 ------------------------------------*/
 #work-exp {
-    background: linear-gradient(#bf437f, #bf4398); /*#bf437f;*/
+    background: linear-gradient(#bf437f, #bf4398); /* #bf437f is the main color, it transitions into the next sections main color */
 }
 
 .bold {
@@ -56,5 +56,5 @@ a:hover {
 /* Education
 ------------------------------------*/
 #edu {
-    background: linear-gradient(#bf4398, #9F3B7B);/*#bf4398;*/
+    background: linear-gradient(#bf4398, #9F3B7B);/* #bf4398 is the main color, tranistions into the first color of the footer */
 }
