@@ -4,6 +4,7 @@ In this hw, you’ll work on your resume site. I'll be providing the starting HT
 
 1.	Populate the index.html file
 			a.	Take some time to customize your starter file and personalize the content.
+-- FINISHED!!
 
 2.  Make appropiate css and images folders to store and link files..
 
