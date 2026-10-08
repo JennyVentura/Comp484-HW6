@@ -20,7 +20,7 @@ In this hw, you’ll work on your resume site. I'll be providing the starting HT
             c. In your styles.css file change the background color of each header, footer, work experience, and education section. <!-- I didn't linke how they looked as blocks of color, so I used a gradient -->
             d. Add classes as needed.
             e. Adjust font colors if needed
---HERE!!
+--FINISHED!! - Might change?
 
 5.	Pick two Google Fonts and add them to your site (https://fonts.google.com/)
 			a.	Go to the Google Fonts website explore and pick two web-safe fonts for your site

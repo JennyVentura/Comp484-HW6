@@ -13,13 +13,16 @@ body {
     color: #162941;
 }
 
+/*h2.spacing {
+    line-height: 2em;
+}*/
 
 /* Header & Footer 
 ------------------------------------*/
 header {
     background: linear-gradient(#AE2647, #bf437f); /* #AE2647 is the main color for header, but I didn't like all the colors by themselves, they just looked bad as random blocks of color on the page, so I decided to do a gradient. I like how this looks much better. */
-    margin-top: 0;
-    margin-bottom: 0; /*????????????*/
+    /*margin-top: 0;
+    margin-bottom: -20px;*/
 }
 
 h1 {
@@ -29,8 +32,6 @@ h1 {
 footer {
     text-align: center;
     background: linear-gradient(#9F3B7B, #5d42b3); /* #9F3B7B & #5d42b3 */
-    margin-top: 0;
-    margin-bottom: 0;
 }
 
 a {
@@ -41,11 +42,17 @@ a:hover {
     color: #9583FE;
 }
 
+#diff-color { /* I liked how the color looked here only, so it got it's own id */
+    color:aliceblue;
+}
+
 
 /* Work Experience
 ------------------------------------*/
 #work-exp {
     background: linear-gradient(#bf437f, #bf4398); /* #bf437f is the main color, it transitions into the next sections main color */
+    /*margin-top: 20px;
+    margin-bottom: 0;*/
 }
 
 .bold {
@@ -57,4 +64,6 @@ a:hover {
 ------------------------------------*/
 #edu {
     background: linear-gradient(#bf4398, #9F3B7B);/* #bf4398 is the main color, tranistions into the first color of the footer */
+    /*margin-top: -20px;
+    margin-bottom: -10px;*/
 }
