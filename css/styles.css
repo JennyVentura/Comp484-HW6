@@ -1,30 +1,56 @@
 /* Color Palette
-# - color 1
-# - color 2
-# - color 3
-# - color 4
+#AE2647 - color 1
+#bf437f - color 2
+#bf4398 - color 3
+#9F3B7B - color 4 OR #5d42b3????????????????????????????????
 */
+
 
 /* Global styles 
 ------------------------------------*/
 body {
-    background: #e9aac8;
+    background: #FF98BB; /*linear-gradient(#AE2647, #bf437f, #bf4398, #9F3B7B);*/ /*#FF98BB  #e9aac8 & lightblue were also nice linear-gradient(#FF98BB, #AE2647, #bf437f, #bf4398, #9F3B7B);*/
+    color: #162941;
 }
 
 
 /* Header & Footer 
 ------------------------------------*/
+header {
+    background: linear-gradient(#AE2647, #bf437f); /*#AE2647;*/
+}
 
+h1 {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    background: #5d42b3; /*#9F3B7B;?????????????????????????????*/
+}
+
+a {
+    color: #f472b6;
+}
+
+a:hover {
+    color: #9583FE;
+}
 
 
 /* Work Experience
 ------------------------------------*/
+#work-exp {
+    background: linear-gradient(#bf437f, #bf4398); /*#bf437f;*/
+}
 
+.bold {
+    font-weight: 700; /* bold - could have used bold keyword */
+}
 
 
 /* Education
 ------------------------------------*/
-
-.bold {
-    font-weight: 700; /* bold - could have used bold keyword */
+#edu {
+    background: linear-gradient(#bf4398, #9F3B7B);/*#bf4398;*/
 }
