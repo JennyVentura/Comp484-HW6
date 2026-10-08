@@ -60,6 +60,10 @@ h1 {
     font-size: xx-large;
 }
 
+img {
+    display: block;
+}
+
 footer {
     text-align: center;
     background: linear-gradient(#9F3B7B, #5d42b3); /* #9F3B7B & #5d42b3 */
