@@ -1,4 +1,4 @@
-HW6 Resume Site - test
+HW6 Resume Site
 
 In this hw, you’ll work on your resume site. I'll be providing the starting HTML markup (index.html) so you can dive into the CSS right away. You can customize the content however you wish. But make sure to keep the HTML structure pretty much the same to be able to follow along with the exercises.
 
