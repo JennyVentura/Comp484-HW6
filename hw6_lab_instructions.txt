@@ -7,10 +7,12 @@ In this hw, you’ll work on your resume site. I'll be providing the starting HT
 -- FINISHED!!
 
 2.  Make appropiate css and images folders to store and link files..
+-- FINISHED (though they were already there)!!
 
 3.	Link external style sheet
             a.	In the head of your page, use the link element to link to the styles.css file. Be sure to remember to define the styles.css relationship as stylesheet.
             b. Do a quick test just to make sure that the files are linked together properly. An example can be setting the background color.
+--FINISHED!!
 
 4. Pick a color pallete for your site. 
             a. Look online for a color pallete. 
@@ -18,6 +20,7 @@ In this hw, you’ll work on your resume site. I'll be providing the starting HT
             c. In your styles.css file change the background color of each header, footer, work experience, and education section.
             d. Add classes as needed.
             e. Adjust font colors if needed
+--HERE!!
 
 5.	Pick two Google Fonts and add them to your site (https://fonts.google.com/)
 			a.	Go to the Google Fonts website explore and pick two web-safe fonts for your site

@@ -8,7 +8,7 @@
 /* Global styles 
 ------------------------------------*/
 body {
-    /*background: lightblue;*/
+    background: #e9aac8;
 }
 
 
@@ -24,3 +24,7 @@ body {
 
 /* Education
 ------------------------------------*/
+
+.bold {
+    font-weight: 700; /* bold - could have used bold keyword */
+}
